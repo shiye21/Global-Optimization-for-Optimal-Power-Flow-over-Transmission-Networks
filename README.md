@@ -1,8 +1,8 @@
 # Global-Optimization-for-Optimal-Power-Flow-over-Transmission-Networks
 
 This repository contains the main code for the paper:   
-" [1] Ye Shi, H. D. Tuan, S. W. Su and H. H. M. Tam, "Nonsmooth Optimization for Optimal Power Flow over Transmission Networks", the 3rd IEEE Global Conference on Signal and Information Processing, pp. 1141-1144, 2015, Orlando, America."  
-" [2] Ye Shi, H. D. Tuan, H. Tuy and S. W. Su, "Global Optimization for Optimal Power Flow over Transmission Networks", Journal of Global Optimization, vol. 69, pp. 745-760, 2017."   
+[1] Ye Shi, H. D. Tuan, S. W. Su and H. H. M. Tam, "Nonsmooth Optimization for Optimal Power Flow over Transmission Networks", the 3rd IEEE Global Conference on Signal and Information Processing, pp. 1141-1144, 2015, Orlando, America.  
+[2] Ye Shi, H. D. Tuan, H. Tuy and S. W. Su, "Global Optimization for Optimal Power Flow over Transmission Networks", Journal of Global Optimization, vol. 69, pp. 745-760, 2017.  
 
 To run this code you need to first include Matpower, Yalmip and Sedumi in your matlab path; then click "OPF_Ye_main.m".   
 

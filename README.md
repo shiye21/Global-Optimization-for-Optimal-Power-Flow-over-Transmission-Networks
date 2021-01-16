@@ -11,8 +11,6 @@ Yalmip：https://yalmip.github.io/download/
 Sedumi：http://sedumi.ie.lehigh.edu/?page_id=58
 
 If you use this code for your research, please cite our paper: 
-" [1] Ye Shi, H. D. Tuan, S. W. Su and H. H. M. Tam, "Nonsmooth Optimization for Optimal Power Flow over Transmission Networks", the 3rd IEEE Global Conference on Signal and Information Processing, pp. 1141-1144, 2015, Orlando, America."
-" [2] Ye Shi, H. D. Tuan, H. Tuy and S. W. Su, "Global Optimization for Optimal Power Flow over Transmission Networks", Journal of Global Optimization, vol. 69, pp. 745-760, 2017." 
 
 @INPROCEEDINGS{ye2015nonsmooth,
 author={Y. Shi and H. D. Tuan and S. W. Su and H. H. M. Tam},
